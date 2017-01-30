@@ -18,7 +18,11 @@ tagline: NLP, business data, audio, images
 		{% endunless %}
 	{% endif %}
 {% endfor %}
-    
+
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
+
 ## Posts:
 
 <ul class="posts">
