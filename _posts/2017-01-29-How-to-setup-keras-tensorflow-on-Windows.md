@@ -9,9 +9,12 @@ tags : [keras, tensorflow, tutorial, installation, windows, python]
 
 # Overview
 Believe me, I have wasted hours on this problem. You will probably be best off using Anaconda. You can find all the details here.<br>
-https://github.com/tensorflow/tensorFlow/blob/master/tensorflow/g3doc/get_started/os_setup.md
+<a href="https://github.com/tensorflow/tensorFlow/blob/master/tensorflow/g3doc/get_started/os_setup.md">TF installation guide</a> <br>
+Keras itself should already be packed inside Anaconda, if not use (source: <a href="https://anaconda.org/conda-forge/keras">here</a>):
+'conda install -c conda-forge keras=1.0.7'
 
-If you do not want to install Anaconda, for whatever reason, this is a guide for you!
+
+But.. If you do not want to install Anaconda, for whatever reason, this is a guide for you!
 
 # Install pywin
 What it is - sourceforge project site: <a href="https://sourceforge.net/projects/pywin32/">Pywin</a>
