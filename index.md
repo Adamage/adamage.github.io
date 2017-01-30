@@ -5,13 +5,19 @@ tagline: NLP, business data, audio, images
 ---
 {% include JB/setup %}
 
-## Using libs:
+## Browse by tags:
 
-`tensorflow`
-`keras`
-`CNTK`
-`word2vec`
-`glove`
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
     
 ## Posts:
 
