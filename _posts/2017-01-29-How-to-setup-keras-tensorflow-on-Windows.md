@@ -42,4 +42,4 @@ import pandas
 
 # Try a simple project!
 Here - this one should work! <br>
-{% post_url 2017-01-30-Simple-net-Keras-TF %}
+<a href="https://adamage.github.io/tutorial/2017/01/30/Simple-net-Keras-TF">Simple Neural Net with Keras + TF </a>
