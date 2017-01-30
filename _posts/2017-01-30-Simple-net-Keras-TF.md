@@ -9,3 +9,5 @@ tags : [keras, tensorflow, tutorial]
 
 # Overview
 Post placeholder
+
+$$a^2 + b^2 = c^2$$
