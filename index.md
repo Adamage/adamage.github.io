@@ -6,7 +6,13 @@ tagline: NLP, business data, audio, images
 {% include JB/setup %}
 
 ## Browse by tags:
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
 
+{% assign rawtags = rawtags | split:'|' | sort %}
 {% assign tags = "" %}
 {% for tag in rawtags %}
 	{% if tag != "" %}
