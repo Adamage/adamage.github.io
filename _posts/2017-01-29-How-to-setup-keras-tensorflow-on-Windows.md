@@ -17,7 +17,7 @@ Keras itself should already be packed inside Anaconda, if not use (source: <a hr
 But.. If you do not want to install Anaconda, for whatever reason, this is a guide for you!
 
 # Install pywin
-What it is - sourceforge project site: <a href="https://sourceforge.net/projects/pywin32/">Pywin</a>
+What it is - sourceforge project site: <a href="https://sourceforge.net/projects/pywin32/">Pywin</a><br>
 Get a suitable version from here (for your python version and Windows version): <a href="https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/">Builds</a>
 
 
