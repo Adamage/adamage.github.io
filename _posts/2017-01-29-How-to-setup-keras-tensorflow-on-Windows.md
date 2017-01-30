@@ -8,10 +8,10 @@ tags : [keras, tensorflow, tutorial, installation, windows, python]
 {% include JB/setup %}
 
 # Overview
-Believe me, I have wasted hours on this problem. You will probably be best off using Anaconda. You can find all the details here.<br>
+Believe me, I have wasted hours on this problem. You will probably be best off using Anaconda. You can find all the details here:
 <a href="https://github.com/tensorflow/tensorFlow/blob/master/tensorflow/g3doc/get_started/os_setup.md">TF installation guide</a> <br>
-Keras itself should already be packed inside Anaconda, if not use (source: <a href="https://anaconda.org/conda-forge/keras">here</a>):
-'conda install -c conda-forge keras=1.0.7'
+Keras itself should already be packed inside Anaconda, if not use (source: <a href="https://anaconda.org/conda-forge/keras">here</a>):<br>
+`conda install -c conda-forge keras=1.0.7` <br>
 
 
 But.. If you do not want to install Anaconda, for whatever reason, this is a guide for you!
@@ -39,3 +39,7 @@ import scipy
 import numpy
 import pandas
 {% endhighlight %}
+
+# Try a simple project!
+Here - this one should work! <br>
+{% post_url 2017-01-30-Simple-net-Keras-TF %}
