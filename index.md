@@ -10,7 +10,8 @@ tagline: NLP, business data, audio, images
 `tensorflow`
 `keras`
 `CNTK`
-`word2vec`, `glove`
+`word2vec`
+`glove`
     
 ## Posts:
 
@@ -21,6 +22,6 @@ tagline: NLP, business data, audio, images
 </ul>
 
 ## Training materials:
-`http://cs224d.stanford.edu/syllabus.html`
-`http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum`
-`https://deeplearningstudies.slack.com/messages/general/`
+`http://cs224d.stanford.edu/syllabus.html`<br>
+`http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum`<br>
+`https://deeplearningstudies.slack.com/messages/general/`<br>
