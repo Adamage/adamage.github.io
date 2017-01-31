@@ -7,12 +7,15 @@ tags : [keras, tensorflow, tutorial, python]
 ---
 {% include JB/setup %}
 
-# Overview
-Post placeholder
-
-$$a^2 + b^2 = c^2$$
+# Overview.
+This tutorial is an easy intro to check if your environment is working.<br>
+Last section contains some comments, that would cloud the code.
 
 # Obtain data.
+We will be using customer churn data set from:<br>
+<a href="http://www.sgi.com/tech/mlc/db/">SGI database</a><br>
+Download files: churn.all, churn.names<br>
+`Note: customer churn data allows us to predict if the customer will stay or not inside our business.`
 
 # Pre-process data.
 
