@@ -13,8 +13,7 @@ author :
   name : Adam Wróbel
   email : adam.wrobel@gmail.com
   github : adamage
-  twitter : username
-  feedburner : feedname
+  facebook : facebook.com/adamagesoftware
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -83,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : disqus_bJuPmA4s8G
     livefyre :
       site_id : 123
     intensedebate :
