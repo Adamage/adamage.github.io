@@ -37,4 +37,4 @@ cntk configFile=lr_bs.cntk makeMode=false command=Train`
 
 # Try a simple project!
 Here - this one should work! <br>
-<a href="https://adamage.github.io/tutorial/2017/01/30/Simple-net-Keras-TF">Simple Neural Net with Keras + TF </a>
+<a href="https://adamage.github.io/tutorial/2017/02/02/Simple-CNTK-brainscript">Simple logistic regression with CNTK</a>
