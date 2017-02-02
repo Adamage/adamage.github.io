@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple net with Keras+TensorFlow on banking data"
+title:  "Simple logistic regression with CNTK and brainscript"
 date:   2017-02-02 16:16:01 +0000
 categories: tutorial
 tags : [C#, cntk, tutorial, logistic regression]
