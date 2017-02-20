@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neural Nets tutorials & news
+title: Neural Nets tutorials
 tagline: NLP, business data, audio, images
 ---
 {% include JB/setup %}
