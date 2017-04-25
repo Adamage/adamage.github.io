@@ -5,6 +5,13 @@ tagline: NLP, business data, audio, images
 ---
 {% include JB/setup %}
 
+## Github projects:
+'https://github.com/Adamage/text_comprehension_chatbot' <br>
+'https://github.com/Adamage/neural-nets-tutorials' <br>
+    'https://github.com/Adamage/neural-nets-tutorials/tree/master/tensorflow' <br>
+    'https://github.com/Adamage/neural-nets-tutorials/tree/master/numpy-tutorials' <br>
+    
+
 ## Browse by tags:
 <ul class="tag_box inline">
   {% assign tags_list = site.tags %}  
