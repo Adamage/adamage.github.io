@@ -6,10 +6,10 @@ tagline: NLP, business data, audio, images
 {% include JB/setup %}
 
 ## Github projects:
-'https://github.com/Adamage/text_comprehension_chatbot' <br>
-'https://github.com/Adamage/neural-nets-tutorials' <br>
-    'https://github.com/Adamage/neural-nets-tutorials/tree/master/tensorflow' <br>
-    'https://github.com/Adamage/neural-nets-tutorials/tree/master/numpy-tutorials' <br>
+<a href="https://github.com/Adamage/text_comprehension_chatbot">Text comprehension chatbot</a> <br>
+<a href="https://github.com/Adamage/neural-nets-tutorials">Neural nets and numerical libs tutorials:</a> <br>
+    <p><a href="https://github.com/Adamage/neural-nets-tutorials/tree/master/tensorflow">Tensorflow</a>  <br>
+    <p><a href="https://github.com/Adamage/neural-nets-tutorials/tree/master/numpy-tutorials">Numpy</a> <br>
     
 
 ## Browse by tags:
