@@ -10,7 +10,10 @@ tags : [tensorflow, tutorial, python, MNIST, image data]
 # Overview
 This tutorial covers defining and training a neural net to recognize hand-written digits. We will use the popular, classic data-set MNIST.<br>
 Also, it is loosely based on an already existing <a href="https://www.kaggle.com/kakauandme/digit-recognizer/tensorflow-deep-nn">Kaggle tutorial </a> by Kirill Kliavin.<br>
-What I am aiming for is to create a tutorial with lower entry level, even if you do not know any of the AI lingo.
+What I am aiming for is to create a tutorial with lower entry level, even if you do not know any of the AI lingo.<br>
+
+You can find the full implementation on my github:<br>
+<a href="https://github.com/Adamage/neural-nets-tutorials/tree/master/tensorflow/images/digit_recognizer_mnist">Digit Recognizer with Tensorflow </a> <br>
 
 # Obtain data.
 You can download the data set from here:<b>
