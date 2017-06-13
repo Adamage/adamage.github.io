@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog \\ neural nets \\ programming tutorials
-tagline: NLP, business data, audio, images, Python
+title: Adamage Software
+tagline: NLP, neural nets, Python, DL4J
 ---
 {% include JB/setup %}
 
