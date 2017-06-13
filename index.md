@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Neural Nets tutorials
-tagline: NLP, business data, audio, images
+title: Blog \\ neural nets \\ programming tutorials
+tagline: NLP, business data, audio, images, Python
 ---
 {% include JB/setup %}
 
 ## Github projects:
+<a href="https://github.com/Adamage/python-training">Comprehensive, interactive Python course</a> <br>
 <a href="https://github.com/Adamage/text_comprehension_chatbot">Text comprehension chatbot</a> <br>
 <a href="https://github.com/Adamage/neural-nets-tutorials">Neural nets and numerical libs tutorials:</a> <br>
 ├── <a href="https://github.com/Adamage/neural-nets-tutorials/tree/master/tensorflow">Tensorflow</a>  <br>
