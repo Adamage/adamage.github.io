@@ -7,4 +7,4 @@ Starcraft 2 AI API <br>
 OpenSim <br>
 OpenAI Gym
 
-# <a href="https://github.com/Adamage/adamage.github.io/blob/master/pres/MLGdansk29_23.10.17_AdamWrobel_DeepReinforcementLearning_-_Environments_Tour">See presentation</a>
+# <a href="https://github.com/Adamage/adamage.github.io/blob/master/pres/MLGdansk29_23.10.17_AdamWrobel_DeepReinforcementLearning_-_Environments_Tour.pdf">See presentation</a>
