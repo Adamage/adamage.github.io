@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project for Graphcore"
-date:   2017-01-30 16:16:01 +0000
+date:   2021-10-27 16:16:01 +0000
 categories: tutorial
 tags : [keras, tensorflow, tutorial, pytorch]
 ---
